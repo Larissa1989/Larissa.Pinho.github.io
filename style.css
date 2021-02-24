@@ -1,0 +1,27 @@
+body {
+  background-color: #DDA0DD;
+}
+h1 {
+    color: #8B008B;
+    text-align: center;
+    background-color: #EE82EE
+}
+h2 {
+	color: #8B008B;
+	text-align: center;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+h3 {
+	text-align: center;
+}
+button {
+	text-align: center;
+
+}
+
